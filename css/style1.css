@@ -1,0 +1,52 @@
+*{
+	margin:0;
+	padding:0;
+}
+header{
+	background: url("/img/header.jpg");
+	position: absolute;
+    width: 1680px;
+    height: 721px;
+    left: 0px;
+    top: 0px;
+}
+header img{
+	position: absolute;
+    width: 319.2px;
+    height: 109.24px;
+    left: 721.18px;
+    top: 38px;
+}
+.rectangle{
+	position: absolute;
+    width: 296px;
+    height: 11px;
+    left: 705px;
+    top: 109px;
+
+    background: #161B23;
+    border-radius: 14px;
+}
+
+
+h1{
+	position: absolute;
+    width: 278px;
+    height: 49px;
+    left: 712px;
+    top: 109px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 153%;
+    /* or 73px */
+
+    background: linear-gradient(180deg, #FFFFFF 0%, rgba(255, 255, 255, 0) 112.07%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    mix-blend-mode: normal;
+}
+
